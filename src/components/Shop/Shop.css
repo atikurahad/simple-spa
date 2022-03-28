@@ -1,0 +1,14 @@
+.shop {
+  display: grid;
+  grid-template-columns: 4fr 1fr;
+}
+.cart-section {
+  border-left: 2px solid rebeccapurple;
+  background-color: yellowgreen;
+}
+.product-container {
+  display: grid;
+  grid-template-columns: repeat(3, 1fr);
+  gap: 45px;
+  margin: 100px 50px;
+}
