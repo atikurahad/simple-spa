@@ -1,0 +1,7 @@
+.cart-section {
+  position: sticky;
+  top: 0;
+}
+.items-counter {
+  color: tomato;
+}
